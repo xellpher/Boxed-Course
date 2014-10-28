@@ -15,6 +15,3 @@ The aim of this course is to teach you, the teacher, the basics of the skills in
 
 I'm [Mikko Kontto](https://twitter.com/mikko_kontto)--a teacher at the English School in Helsinki, Finland. This is my first online course.
 			
-## I'm in--how do I get started?
-Head over [here]({{site.baseurl}}/modules/start/your-own-course/) to create your own course!
-			
