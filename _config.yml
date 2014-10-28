@@ -1,7 +1,7 @@
 # basic configuration
 baseurl: /course-in-a-box
 markdown: redcarpet
-permalink: /:categories/:title/
+permalink: /:categories/:title "Web Literacy for Teachers"/
 
 
 ga_tracking_code: UA-5757664-19
