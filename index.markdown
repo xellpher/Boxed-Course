@@ -3,20 +3,13 @@ layout: index
 published: true
 ---
 
-## Create a Learning Community that Lasts
+## What is Web Literacy?
 
-Online courses often feel large, intimidating and anonymous. It's hard to feel invested
-in multiple choice quizzes, textbook chapters and hum-drum Q &amp; A forums where you
-don't know anyone.
+The drive to teach coding in schools is spreading like a wildfire. In the UK primary schools have started teaching coding to children as young as 4 years, and in numerous other countries coding is a hot topic. Finland is no exception, with programmes like koodi2016 giving first indications about what life in schools will be like in two years time.
 
-In a stellar learning experiece, you'd know who was in the room and feel super-comfy.
-You'd make projects together and find help when you get stuck. You'd want to send people
-thank-you cards and chicken soup.
+While coding is a good skill to have, it is arguably only one part of being able to take full control of the computerized world that we already live in. There are manby other skills that are just as important and, together with coding, allow someone to take control of that world. These skills together make up Web Literacy.
 
-We know designing a creative, participatory community can be tricky. We're here to help
-you craft assignments that rule, build an audience and support you along the way. You'll
-even learn a few technical skills in the process. Don't worry, the 1s and 0s wash off
-pretty easily.
+The aim of this course is to teach you, the teacher, the basics of the skills in Mozilla's Web Literacy Map, an effort to not only list the aforementioned skills, but to also make sense of the connections between them and create ways of understanding the skills.
 		
 ## OK, but who are you guys?
 
