@@ -1,7 +1,7 @@
 # basic configuration
 baseurl: /course-in-a-box
 markdown: redcarpet
-permalink: /:categories/:title "Web Literacy for Teachers"/
+permalink: /:categories/:title "Web Literacy for Teachers or Verkkolukutaitoa opettajille"/
 
 
 ga_tracking_code: UA-5757664-19
