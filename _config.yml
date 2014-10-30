@@ -1,5 +1,5 @@
 # basic configuration
-baseurl: /course-in-a-box
+baseurl: /boxed-course
 markdown: redcarpet
 permalink: /:categories/:title "Web Literacy for Teachers or Verkkolukutaitoa opettajille"/
 
